@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+.header {
+  font-family: Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 55px
+}
