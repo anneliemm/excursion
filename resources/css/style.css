@@ -2,13 +2,28 @@ body {
   background-color: black;
   font-family: Verdana, sans-serif;
   text-align: center;
+  color: white;
 }
+/* Landing Page Header */
 .header {
   font-weight: normal;
-  color: white;
   font-size: 50px;
 }
-.link {
+#link {
   color: Aquamarine;
   font-size: 16px;
+}
+/* Content */
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+/* Footer */
+.footer {
+  color: gray;
+  text-align: right;
 }
